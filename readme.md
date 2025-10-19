@@ -55,6 +55,8 @@ Retail organizations face the constant challenge of growing sales and maximizing
 
 ---
 
+
+
 ## Project Structure
 
 sales-performance-analysis/
@@ -64,6 +66,9 @@ sales-performance-analysis/
 ├── cleaned_sales.sql
 ├── dashboard/
 │ └── sales_dashboard.pbix
+
+
+
 
 
 ---
