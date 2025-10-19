@@ -127,8 +127,6 @@ sales-performance-analysis/
 - **Matrix/Table**: Product category performance across regions
 - **Slicers**: Filter by sales channel and customer type for granular analysis
 
-*![Dashboard Overview](images/dashboard.jpg)*
-
 ---
 
 ## How to Run This Project
